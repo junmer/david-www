@@ -6,6 +6,8 @@
 [![Donate to help support David development](http://img.shields.io/gittip/_alanshaw.svg)](https://www.gittip.com/_alanshaw/)
 ___
 
+部署在`http://edp-api.baidu.com`上面，监控`edp package`的依赖关系，而不是`npm package`的依赖关系。
+
 Node.js based web service that tells you when your project npm dependencies are out of date.
 To use David, your project must include a [package.json](https://npmjs.org/doc/json.html)
 file in the root of your repository.
